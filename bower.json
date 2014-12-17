@@ -1,0 +1,7 @@
+{
+  "name": "weather-element#gh-pages",
+  "private": true,
+  "dependencies": {
+    "weather": "cliren/weather-element#master"
+  }
+}
